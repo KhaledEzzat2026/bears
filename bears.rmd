@@ -99,3 +99,10 @@ p-value is below 0.05 and the adj. R^2 is 0.7423
 
 ## Conclusion
 
+Model LENGTH~HEADWTH R^2= 0.5321
+Model LENGTH~WEIGHT R^2= 0.7423
+Model LENGTH~NECK R^2= 0.7476
+Model LENGTH~CHEST R^2= 0.7869
+Model LENGTH~HEADLEN R^2= 0.8434
+
+
